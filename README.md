@@ -34,7 +34,7 @@ Estudante de tecnologia no IFRO, com interesse em desenvolvimento mobile, backen
 
 - **[Murika](https://github.com/EvertuN/murika)** - Sistema de gestão de hotel, com funcionalidades para controle de reservas, hóspedes e operações do dia a dia.
 - **[Portifolio](https://everton.net.br/)** - Site responsivo desenvolvido para exibir minha evolução técnica, stack de tecnologias e projetos recentes.
-- **[Gerador de Orçamentos](https://gerarorcamento.everton.net.br/)** - Aplicação web projetada para automatizar e simplificar a criação de orçamentos profissionais.
+- **[Gerador de Orçamentos](https://ajudaocnpj.com.br/)** - Aplicação web projetada para automatizar e simplificar a criação de orçamentos profissionais.
 - **[Autentika PHP](https://github.com/EvertuN/autentika_php.git)** - Sistema de autenticação de usuários desenvolvido com PHP e MySQL.
 
 

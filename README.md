@@ -28,7 +28,7 @@ Estudante de tecnologia no IFRO, com interesse em desenvolvimento mobile, backen
 
 ## 🌱 Atualmente aprendendo
 
-- TypeScript
+- Data Science
 
 ## 🚀 Projetos em destaque
 
